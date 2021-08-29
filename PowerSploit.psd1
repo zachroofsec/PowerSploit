@@ -23,6 +23,8 @@ PowerShellVersion = '2.0'
 # Functions to export from this module
 FunctionsToExport = @(
     'Add-NetUser',
+    'Get-MicrophoneAudio',
+    'Find-DomainShare',
     'Add-ObjectAcl',
     'Add-Persistence',
     'Add-ServiceDacl',
